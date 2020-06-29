@@ -1,3 +1,3 @@
 # YouTube_misinfo
 
-Problems updating the new Colab notebook, will continue trying
+Code to the paper : https://openreview.net/pdf?id=M4wgkxaPcyj
